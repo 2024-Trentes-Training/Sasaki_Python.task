@@ -1,2 +1,2 @@
-# Git-kadai
-追加課題(Git)専用のリポジトリ
+# TEST
+追加課題_Git専用組織(Organization)の動作テスト
