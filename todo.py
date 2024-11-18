@@ -1,7 +1,11 @@
 #!/usr/bin/python3.6
 
 #タスクリストファイルのパス
+<<<<<<< HEAD
 path="list.py"
+=======
+path="/home/sasa/python_task.dir/list.py"
+>>>>>>> 45bf8982dc3b13c78d692aadc180157e07792e89
 
 #osモジュールをインポート
 import os
